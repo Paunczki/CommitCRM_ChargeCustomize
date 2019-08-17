@@ -1,7 +1,7 @@
 # CommitCRM_ChargeCustomize
 
 
-# For Later Developers
+## For Later Developers
 
 See the file **devGuide.txt** to get a development guide
 
@@ -20,3 +20,9 @@ we want a more efficient way of uploading all the tasks we do
 ## Contributors
 - John Mikos *(https://github.com/Paunczki)*
 
+
+
+
+
+### Internship Begun June 10th, 2019
+### Internship Completed August 16th, 2019
